@@ -3,3 +3,6 @@
 
 As Glassmorphis is going to be a trend in 2021.
 So i tried to dig into and tried to practice it.
+
+I used Sass and Gsap for animation
+
